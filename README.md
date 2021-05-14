@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![ezidayzi's github stats](https://github-readme-stats.vercel.app/api?username=ezidayzi&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezidayzi&layout=compact)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ezidayzi@gmail.com)](mailto:ezidayzi@gmail.com)
