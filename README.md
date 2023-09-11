@@ -14,6 +14,7 @@
 | YDS                             | 숭실대학교 동아리 Yourssu에서 사용하는 디자인 시스템 라이브러리  |          `2021.05 ~ ing`     |  [GitHub](https://github.com/yourssu/YDS-iOS) |
 | YDS Storybook               | YDS를 직접 사용해볼 수 있는 서비스|          `2021.05 ~`     | [App Store](https://apps.apple.com/kr/app/yds-storybook/id1584167620)|
 | 모모프                           | 위시리스트 저장 서비스                               |       `2022.08 ~ 2022.12`        | [App Store](https://apps.apple.com/sg/app/%EB%AA%A8%EB%AA%A8%ED%94%84-momof/id1637809414)        |
+| 단디                           | 기상 예보 기반 코디 추천 서비스                               |       `2023.01 ~ 2023.05`        | [GitHub](https://github.com/2023-dandi/dandi-iOS)        |
 | 지구는 둥그니까                     | 눈사람과 함께하는 걸음 시각화 서비스           |       `2023.08 ~ ing`        | [Github](https://github.com/Earth-Is-Round/Client-iOS)|
 
 </br>
