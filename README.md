@@ -1,8 +1,12 @@
 ## 🥦 Yoonseo Kim 
-![ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Skill.**
+
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 **Project.**
 
@@ -16,17 +20,18 @@
 | 모모프                           | 위시리스트 저장 서비스                               |       `2022.08 ~ 2022.12`        | [App Store](https://apps.apple.com/sg/app/%EB%AA%A8%EB%AA%A8%ED%94%84-momof/id1637809414)        |
 | 단디                           | 기상 예보 기반 코디 추천 서비스                               |       `2023.01 ~ 2023.05`        | [GitHub](https://github.com/2023-dandi/dandi-iOS)        |
 | 지구는 둥그니까                     | 눈사람과 함께하는 걸음 시각화 서비스           |       `2023.08 ~ ing`        | [Github](https://github.com/Earth-Is-Round/Client-iOS)|
+| 커넥트                     | 운동 기록 다이어리 서비스          |       `2023.09 ~ 2023.12`        | [Play Store](https://play.google.com/store/apps/details?id=com.pnks.m1_ua&pcampaignid=web_share)|
 
 </br>
 
 **Experience.**
 - SOPT iOS 파트 28기, 29기 `2021.03 ~ 2022.01`
-- Yourssu iOS 팀 `2020.09 ~ ing`
+- Yourssu iOS 팀 `2020.09 ~ 2023.09`
 - SW창의캠프 대학생 봉사단 CJ UNIT 4기 `2021.04 ~ 2021.07`
 </br>
 
 **Education.**
-</br>숭실대학교 글로벌미디어학부, 컴퓨터학부 (복수전공) `2019.03 ~ 2024.02`
+</br>숭실대학교 글로벌미디어학부/컴퓨터학부 `2019.03 ~ 2024.02`
 
 </br>
 
