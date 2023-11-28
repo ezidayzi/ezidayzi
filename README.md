@@ -32,8 +32,12 @@
 
 **Education.**
 </br>숭실대학교 글로벌미디어학부/컴퓨터학부 `2019.03 ~ 2024.02`
-
+</br>
 </br>
 
+**Link.**
+</br><a href="https://velog.io/@ezidayzi"><img src = "https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+</br>
+</br></br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fezidayzi&count_bg=%23B4B4B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
