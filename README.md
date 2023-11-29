@@ -20,7 +20,7 @@
 | 모모프                           | 위시리스트 저장 서비스                               |       `2022.08 ~ 2022.12`        | [App Store](https://apps.apple.com/sg/app/%EB%AA%A8%EB%AA%A8%ED%94%84-momof/id1637809414)        |
 | 단디                           | 기상 예보 기반 코디 추천 서비스                               |       `2023.01 ~ 2023.05`        | [GitHub](https://github.com/2023-dandi/dandi-iOS)        |
 | 지구는 둥그니까                     | 눈사람과 함께하는 걸음 시각화 서비스           |       `2023.08 ~ ing`        | [Github](https://github.com/Earth-Is-Round/Client-iOS)|
-| 커넥트                     | 운동 기록 다이어리 서비스          |       `2023.09 ~ 2023.12`        | [Play Store](https://play.google.com/store/apps/details?id=com.pnks.m1_ua&pcampaignid=web_share)|
+| 커넥트                     | 운동 기록 다이어리 서비스          |       `2023.09 ~ 2023.12`        | [App Store](https://apps.apple.com/us/app/%EC%BB%A4%EB%84%A5%ED%8A%B8-connect/id6472791368)<br> [Play Store](https://play.google.com/store/apps/details?id=com.pnks.m1_ua&pcampaignid=web_share)|
 
 </br>
 
